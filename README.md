@@ -1,6 +1,5 @@
 # smartClient
 Author:  Yiming Sun
-Purpose:  CSc 361 - Assignment 1
 Date:  Jan 26, 2018
 
 ------------------------------------------------
